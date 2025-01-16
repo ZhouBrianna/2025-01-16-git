@@ -8,4 +8,4 @@ The one you are on will habe a `*` and be colored green
 - `git log --oneline`: see where you are 
 
 - `git push origin b1`: pushes the b1 branch to the remote
-    - similar 
+    - similar command for pulling main branch to remote
